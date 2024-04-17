@@ -32,9 +32,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhsferreira021@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31bpjcibqd75wopnjvyrhisleae4?si=816169581de146cd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhsf021)
-
-<br><br>
-
-### <h2 style="color: #836DFF; font-family: sans-serif">My Workspace Specs 🖥️</h2>
-[![Gmail](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/pt/products/cpu/amd-ryzen-5-5600x)
-[![Gmail](https://img.shields.io/badge/NVIDIA-RTX_2060_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.techpowerup.com/gpu-specs/geforce-rtx-2060-super.c3441)
