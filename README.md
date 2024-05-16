@@ -28,4 +28,4 @@
 <br><br><br>
 
 ### <h2 style="color: #836DFF; font-family: sans-serif">Network</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheussantospe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussantospe/?trk=opento_sprofile_topcard)
